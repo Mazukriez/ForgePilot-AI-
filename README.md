@@ -2,7 +2,7 @@
 
 # ForgePilot-AI-
  browser-based AI coding workspace inspired by Qoder.
-Built and deployed ForgePilot AI — your own browser-based AI coding workspace inspired by Qoder.
+Built and deployed ForgePilot AI a browser-based AI coding workspace inspired by Qoder.
 
 # ForgePilot AI
 
