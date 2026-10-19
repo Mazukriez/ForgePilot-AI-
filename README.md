@@ -1,3 +1,5 @@
+<img width="1908" height="945" alt="image" src="https://github.com/user-attachments/assets/a5a30caa-7363-498c-a950-c0665cb4f29a" />
+
 # ForgePilot-AI-
  browser-based AI coding workspace inspired by Qoder.
 Built and deployed ForgePilot AI — your own browser-based AI coding workspace inspired by Qoder.
